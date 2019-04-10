@@ -7,7 +7,7 @@ package client;
 
 /**
  *
- * @author i am rock
+ * @author yamraj
  */
 public class Client {
     public static void main(String[] args) {
